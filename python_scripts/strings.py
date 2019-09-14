@@ -19,4 +19,12 @@ print(multiline)
 # Concat is the "+" sign instead of ".." in lua
 name = "Ilias"
 last = "Tselios"
-print(name + " " + last)
+full = name + " " + last
+print(full)
+
+# Another way to concat... with values, all types
+nameNew = "Ilias"
+lastNew = "Tselios"
+fullnew = f"{name} {last}"  # f or F
+print(fullnew)
+
