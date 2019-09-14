@@ -9,7 +9,9 @@ value1, value2 = 1, 2
 x: int = 1
 print(x, "int declared")
 
-
+# use capital letters to declare that this constant. You can change it of course
+# mostly for other devs not mess with this one!
+PI = 3.14
 
 # LISTS! or arrays or tables in LUA with the use of [] instead of {}
 myList = [1, 2, 3, 4, 6]
