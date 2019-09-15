@@ -6,7 +6,11 @@ Target is to learn writing code in python, following the [PEP 8 style guide](htt
 
 Using PyCharm.
 
-DOCUMENTATION
+**IDENTATION**
+
+Using only Tab!!! Do not use 4 spaces! They don;t mix in python 3!
+
+**DOCUMENTATION**
 * Then [standard library](https://docs.python.org/3/library/index.html) and some of the most common of them:
     * The [build-in functions](https://docs.python.org/3/library/functions.html)
     * The [math module](https://docs.python.org/3/library/math.html)
