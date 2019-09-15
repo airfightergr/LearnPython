@@ -1,4 +1,7 @@
 # Variables - Python is dynamic language like LUA - no need to declare variable type
+# The same scheme with local/global variables. But you don't use the "local" as in Lua.
+# Python knows that is local if is inside a scope (function , if, etc).
+# To modify a global inside a scope, you must the "global" in front of the variable. Not a good practice!
 studentsCount = 1000
 rating = 4.99
 is_published = False
