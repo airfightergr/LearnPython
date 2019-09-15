@@ -1,1 +1,1 @@
-# Write a very basic program
+# A very basic program
