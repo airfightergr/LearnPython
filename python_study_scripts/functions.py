@@ -59,6 +59,3 @@ def increment(number: int, by: int = 25) -> tuple:
 print(increment(50))
 
 
-
-
-
